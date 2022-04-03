@@ -26,4 +26,16 @@ public class hllo {
         int a,b;
         int sum= a+b;
     }
+    public calculate(int sum){
+        int a,b;
+        int sum= a+b;
+    }
+    public calculate(int sum){
+        int a,b;
+        int sum= a+b;
+    }
+    public calculate(int sum){
+        int a,b;
+        int sum= a+b;
+    }
 }
